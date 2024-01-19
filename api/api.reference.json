@@ -1,0 +1,1089 @@
+{
+  "result" : "ok",
+  "data" : [
+    {
+      "seq": "1",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/thumb.webp",
+      "client": "kt cloud",
+      "title": "kt cloud <br />: SUMMIT 2023",
+      "type": "",
+      "date": "2023",
+      "keyword": "BTL Promotion",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_ktcloud.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/con2.webp",
+          "overview": "당신의 새로운 일상을 만들어 갑니다 <br class='m-hide'/>“전문화된 기술력과 차별화된 가치로 디지털 혁신 성공을 만든다”는 콘셉트를 바탕으로 <br class='m-hide'/>간결하고, 역동적이면서 심플하게 라인 그래픽으로 표현하여 시각적 인지와 전달하고자 하는 취지, 의미에 부합되도록 제작"
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/con4.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/con5.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "2",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/thumb.webp",
+      "client": "현대자동차",
+      "title": "Season4 <br />Wheelping",
+      "type": "",
+      "date": "2023",
+      "keyword": "BTL Promotion",
+      "footBg": "#013469",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_hyundai.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bg": "#082d74",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/con2.webp",
+          "overviewBg": "#c5d651",
+          "overview": "캐스퍼 오너 분들을 위한 캠핑, 일러스트레이터로 현대자동차만의 감각적이고 아기자기하며, <br />다양한 활동을 표현하는것이 포인트 <br />가이드 준수에 따른 구조적 포인트 방식으로 배너, 현수막, 지류,  기념품 등 제작하여 브랜딩"
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/wheelping/con5.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "3",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/thumb.webp",
+      "client": "kt",
+      "title": "KT AI ROBOT <br />방역/서빙",
+      "type": "",
+      "date": "2023",
+      "keyword": "BTL Promotion",
+      "kvColor" : "#000",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kt_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con2.webp",
+          "overview": "더 편리하고 더 만족스럽게 KT AI 로봇이 함께합니다. <br class='m-hide'/>심플하고 깔끔한 느낌의 화이트와 그레이 계열의 모노톤 컬러 사용과 제품에 대해 전달하고자 하는 메시지를 <br class='m-hide'/>효과적으로 전달하기 위하여 간결함에 초점을 두어 디자인 "
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con6.webp"
+        },
+        {
+          "sid": "7",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/bg7.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con7.webp"
+        },
+        {
+          "sid": "8",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/bg8.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/brand/con8.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "4",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/thumb.webp",
+      "kvColor": "",
+      "client": "MINI KOREA",
+      "title": "2023 MINI <br />SEOUL MOBILITY SHOW",
+      "type": "",
+      "date": "2023",
+      "keyword": "Exhibition Display",
+      "footBg": "#fff",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_mini.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/con2.webp",
+          "overview": "BIG LOVE. 세상을 사랑하자. MINI가 세상을 향해 외쳐온 BIG LOVE. <br />취향, 도전 그리고 내일까지. MINI가 말하는 세상을 향한 사랑 MINI의 BIG LOVE는  <br class='m-hide'/>더 좋은 세상을 위한 책임을 뜻하며, 세상을 바꿀 세 가지의 구체적인 행동 의지가 함께 깃들어 있다"
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/mini/con6.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "5",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/emoticon/thumb.webp",
+      "kvColor": "",
+      "client": "Mobile Display",
+      "title": "MOBILE <br />Emoticon",
+      "type": "",
+      "date": "",
+      "keyword": "Message icon",
+      "footBg": "",
+      "footLogo": "",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/emoticon/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/emoticon/kv.webp"
+        },
+        {
+          "sid": "1",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/emoticon/con1.webp",
+          "overview": "토끼와 코끼리의 동물을 모티브로 덩치큰 몸을 가진 직장인의 일상을 심플하게 표현하였으며 남녀노소 누구나 공감하는 내용으로 상황에 맞는 아이콘으로 제작. <br />사용자 입장에서 전달하고자하는 메시지의 아이콘이 눈에 잘 띄도록 컬러감을 강하게 적용하여 사용 하였으며 웃기고 개구쟁이 같은 모습의 컨셉 별로 다양한 행동을 표현하므로써 사용자에게 호감이 될 수 있는 아이콘 개발"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/emoticon/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/emoticon/con2.webp"
+        },
+        {
+          "sid": "3",
+          "bg": "#66abf9",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/emoticon/con3.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "6",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_thumb.webp",
+      "kvColor": "",
+      "client": "Ford Korea",
+      "title": "Ford RANGER SHOWCASE <br />& RANGER PLAY GROUND",
+      "type": "",
+      "date": "2023",
+      "keyword": "BTL Promotion",
+      "footBg": "#00095b",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_ford_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_con1.webp",
+          "overview": "포드 픽업트럭의 퍼포먼스를 느껴라! <br />전통 픽업트럭의 퍼포먼스를 느껴볼 수 있는 코스와 포드만의 라이프 스타일을 경험하는 어드벤쳐데이 <br />극한 지형과 다양한 환경에 최적화된 기술력을 보여주는 컨셉으로 픽업트럭의 형태와 자연 숲을 하나로 접목하여 전달하는 메시지를 직관적으로 표현하였으며 <br />픽업트럭의 특징을 살려 거칠면서 액티브한 느낌의 컨셉으로 제작 및 공간에 따른 브랜딩 진행"
+        },
+        {
+          "sid": "2",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_con2.webp"
+        },
+        {
+          "sid": "3",
+          "bg": "#6c7071",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/ford/nextgen_con6.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "7",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/thumb.webp",
+      "kvColor": "",
+      "client": "kt",
+      "title": "KT ON식당 <br />시즌 1~5",
+      "type": "",
+      "date": "2018 ~ 2021",
+      "keyword": "Exhibition Display",
+      "footBg": "#22bdb6",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kton.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bg": "#22bdb6",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/con1.webp",
+          "overview": "ON요금제 출시와 함께, 1초에 1,98원이라는 저렴한 금액으로 즐기는 무제한 뷔페 컨셉의 ON식당 <br />ON식당만의 시그니처 엠블럼 제작 진행, 요리를 제공하는 공간으로써 요리사 모자를 심플하게 라인 그리픽화 시켜 <br />직접적으로 의미가 전달되도록 담았으며 수저와 포크의 오브제를 활용하여 식당의 이미지를 더 돋보이도록 배치 <br />1회성에 멈추지 않고 확장 리뉴얼된 엠블럼을 개발하여 시즌별 컨셉트에 맞게 재구성하여 제작"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/con2.webp"
+        },
+        {
+          "sid": "3",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kton/con6.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "8",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/thumb.webp",
+      "kvColor": "",
+      "client": "르노코리아",
+      "title": "R : Xperience 23 <br />#1 pop-up in seoul",
+      "type": "",
+      "date": "2023",
+      "keyword": "Exhibition Display",
+      "footBg": "#fff",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_renault.webp",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/con2.webp",
+          "overview": "새로워진 르노코리아를 경험하다. <br />AR 필터를 이용한 르노코리아의 색다른 차량 경험과 다양한 차량의 시승까지 한번에 즐길 수 있는 팝업 스토어 <br />다채로운 느낌의 그라데이션 그래픽 컬러를 활용하여 브랜드 아이덴티티를 강화하고 <br class='m-hide' />기업 이미지 상승 효과를 높이는데 포인트를 주어 제작"
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bg": "#e7e7e7",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/xperience/con5.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "9",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/thumb.webp",
+      "kvColor": "#fff",
+      "client": "HYUNDAI",
+      "title": "2023 HYUNDAI<br />N BEACH 2",
+      "type": "",
+      "date": "2023",
+      "keyword": "Exhibition Display",
+      "footBg": "#aacae6",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_N.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bg": "#aacae6",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/bg2_v2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/con2_v2.webp",
+          "overview": "NEVER JUST DRIVE.<br />탁트인 바닷가에서 현대자동차의 아반떼N을 시원한 바닷바람과 함께 즐길 수 있는 해변 N Beach.<br />아반떼N 고유의 아이덴티티를 부각시킴으로써 서퍼비치를 N Beach로 브랜딩."
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/con6.webp"
+        },
+        {
+          "sid": "7",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/bg7.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/NBeach2/con7.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "10",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/thumb.webp",
+      "kvColor": "#fff",
+      "client": "Ford Korea",
+      "title": "2023 Ranger<br />Camp Town",
+      "type": "",
+      "date": "2023",
+      "keyword": "Exhibition Display",
+      "footBg": "#00095b",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_ford_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bg": "#002978",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/con2.webp",
+          "overview": "2023 Ranger Camp Town<br />선선한 가을 푸르른 날 포드와 포드 오너들이 함께 즐기는 특별한 포드 캠핑을 상상하며<br />포드만의 아이덴티티와 캠핑을 즐길 수 있는 즐거운 분위기를 살려 브랜딩."
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/camptown/con6.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "11",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/thumb.webp",
+      "kvColor": "#fff",
+      "client": "GENESIS",
+      "title": "2023 GENESIS<br />부산국제영화제 파트너십",
+      "type": "",
+      "date": "2023",
+      "keyword": "Exhibition Display",
+      "footBg": "#111",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_genesis.webp",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con2.webp",
+          "overview": "아시아 최대 영화 축제인 부산국제영화제에서 제네시스를 만나보다."
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con6.webp"
+        },
+        {
+          "sid": "7",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg7.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con7.webp"
+        },
+        {
+          "sid": "8",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/bg8.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genesis/con8.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "12",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/thumb.webp",
+      "kvColor": "#fff",
+      "client": "Cynthia",
+      "title": "신시아<br />소셜 콘텐츠 디자인",
+      "type": "",
+      "date": "2023",
+      "keyword": "Exhibition Display",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_cynthia_white.webp",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/kv_bg.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/con2.webp",
+          "overview": "신시아에서 진행하는 로컬파이오니어 스쿨, 제주밭한끼 프로그램을 소개하는 소셜미디어에 들어갈 카드뉴스를 제작하였습니다. <br />각 계정들에 맞는 무드와 내용들에 맞는 디자인을 적용하여 신시아가 원하는 방향으로 디자인이 나올 수 있도록 작업하였습니다. "
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/bg_4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/cynthia/con_4.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "13",
+      "team": "btl",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/thumb.webp",
+      "kvColor": "#fff",
+      "client": "삼성전자",
+      "title": "2023 Samsung <br />Bot Fit Lab",
+      "type": "",
+      "date": "2023",
+      "keyword": "Exhibition Display",
+      "footBg": "#f6f6f6",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_samsung.webp",
+      "LogoHeight": "40",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/kv_bg.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/con1.webp"
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/con2.webp",
+          "overview": "Bot Fit을 직접 경험해볼 수있는 공간 Bot Fit Lab. <br />개인용 피트니스 웨어러블 로봇인 Bot Fit의 사내 베타 런칭을 실시함.  "
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/con4.webp"
+        },
+        {
+          "sid": "5",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/bg5.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/con5.webp"
+        },
+        {
+          "sid": "6",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/bg6.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/botfit/con6.webp"
+        }
+      ],
+      "link": ""
+    },
+
+    {
+      "seq": "102",
+      "team": "design",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/thumb.webp",
+      "client": "kt",
+      "title": "홈스쿨 x 홈런 <br />웹사이트 디자인",
+      "type": "웹사이트 디자인",
+      "date": "2021 ~ 2023",
+      "keyword": "Responsive Web, 프로모션 디자인",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kt_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/con1.webp",
+          "overview": "홈스쿨과 홈런의 이미지가 자연스럽게 융화될 수 있도록 디자인했으며, <br class='m-hide'/>밝고 경쾌한 민트 색상의 브랜드 컬러의 사용과 귀여운 일러스트를 통해 고질적인 교육 사이트 이미지를 탈피하고자 했습니다."
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/con2.webp"
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/con3.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "103",
+      "team": "design",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/thumb.webp",
+      "client": "kt",
+      "title": "키즈랜드캠핑 <br />마케팅 디자인",
+      "type": "마케팅 디자인",
+      "date": "2021 ~ 진행중",
+      "keyword": "Responsive Web, 마케팅, 프로모션 디자인",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kt_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/con1.webp",
+          "overview": "아이와 함께하는 즐거운 캠핑! 키즈랜드캠핑 전용 캠핑장 및 제휴캠핑장 안내와 실시간 예약과 같은 편의 서비스 제공, 친근한 캐릭터의 등장, 브랜드 컬러 사용을 통해 <br class='m-hide' />대고객 브랜드 이미지를 형성하고, 반응형 제작으로 기기별 접근성이 뛰어난 사이트로 설계했습니다."
+        },
+        {
+          "sid": "2",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/con2.webp"
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/con3.webp"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "seq": "104",
+      "team": "design",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/thumb.webp",
+      "client": "kt",
+      "title": "KT AI Robot <br />웹사이트 디자인",
+      "type": "웹사이트 디자인",
+      "date": "2023",
+      "keyword": "Responsive Web, 마케팅 디자인",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kt_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/con1.webp",
+          "overview": "딱딱한 AI 로봇의 이미지를 벗어나 부드럽고 친근감 있게 사용자에게 다가갈 수 있도록 디자인했습니다. 포인트 컬러를 통해 콘텐츠 강조 및 가독성을 높였으며, 직관적이고 간결한 구성을 통해 AI 로봇에 대한 다양한 정보들을 사용자에게 쉽게 전달할 수 있도록 설계했습니다."
+        },
+        {
+          "sid": "2",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/con2.webp",
+          "caption": "모바일에서는 페이지 간 이동 시 편의성을 위해 하단에 네비게이션을 설정했습니다.<br />경험해 보기 전 사진, 영상을 고객 사례 카테고리를 통해 접할 수 있게끔 하여 AI 로봇에 대한 접근성을 높였습니다."
+        },
+        {
+          "sid": "3",
+          "bg": "#007aff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/con3.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/bg4.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/con4.webp"
+        }
+      ],
+      "link": "https://ktrobot.co.kr"
+    },
+    {
+      "seq": "105",
+      "team": "design",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/y/thumb.webp",
+      "client": "kt",
+      "title": "KT Y <br />마케팅 디자인",
+      "type": "웹사이트, 프로모션 디자인",
+      "date": "2021",
+      "keyword": "Web, App, Promotion",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kt_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/y/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/y/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/y/con1.webp",
+          "overview": "KT 20대 전용 브랜드 Y 운영, 마케팅에 필요한 디자인 작업을 진행했습니다. <br />Y 컬러인 민트 색상과 다양한 Y 폰트를 통해 일관성 있는 톤앤매너로 브랜드 아이덴티티를 강화했습니다. <br />개성적이고 힙한 디자인으로 주 타깃인 MZ 세대 트랜드를 반영했습니다."
+        },
+        {
+          "sid": "2",
+          "bg": "#f0f0f0",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/y/con2.webp"
+        },
+        {
+          "sid": "4",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/y/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/y/con3.webp"
+        }
+      ]
+    },
+    {
+      "seq": "106",
+      "team": "design",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/thumb.webp",
+      "client": "kt",
+      "title": "기가아이즈 <br />마케팅 디자인",
+      "type": "마케팅, 프로모션 디자인",
+      "date": "2023",
+      "keyword": "마케팅, 프로모션 디자인",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kt_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/bg1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/con1.webp",
+          "overview": "CCTV의 실사 이미지를 사용하기 위해 플랫한 일러스트보다 입체감있으면서 같이 어우러지는 느낌을 주기 위해 3D일러스트를 사용하였고, <br />무거운 이미지보다는 CCTV의 접근성을 높이기 위해 부드러운 이미지를 사용하여 친근함을 유도하여 사용자에게 친근하게 다가가기 위해 어두운 색상보다 산뜻하고 밝은 색상을 사용하였습니다."
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/con2.webp"
+        },
+        {
+          "sid": "3",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/bg3.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/gigaeyes/con3.webp"
+        }
+      ]
+    },
+    {
+      "seq": "107",
+      "team": "design",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genieverse/thumb.webp",
+      "client": "kt",
+      "title": "지니버스 <br />마케팅 디자인",
+      "type": "마케팅, 프로모션 디자인",
+      "date": "2023",
+      "keyword": "마케팅, 프로모션 디자인",
+      "footBg": "#000",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_kt_white.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genieverse/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genieverse/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genieverse/con1.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genieverse/bg1.webp",
+          "overview": "메타버스 플랫폼 지니버스는 가상세계에서 자신의 아바타와 공간을 꾸미는 플랫폼으로 <br />귀여운 3D 캐릭터를 활용하여 어려운 메타버스의 이미지를 벗어나 재미있게 사용자에게 다가갈 수 있도록 디자인했습니다. <br />좀 더 역동적인 느낌을 넣어 누구나 이 플랫폼을 쉽고 재밌게 즐길 수 있도록 디자인 하였습니다."
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genieverse/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/genieverse/con2.webp"
+        }
+      ]
+    },
+    {
+      "seq": "108",
+      "team": "design",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/scmarket/thumb.webp",
+      "client": "standard chartered SC제일은행",
+      "title": "SC제일은행 <br />마케팅 디자인",
+      "type": "마케팅, 프로모션 디자인",
+      "date": "2021.05~진행중",
+      "keyword": "마케팅, 프로모션 디자인",
+      "footBg": "#1559ba",
+      "footLogo": "https://static.econtents.co.kr/_img/ct-planet/references/logo_sc_v2.png",
+      "section": [
+        {
+          "sid": "kv",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/scmarket/bg_kv.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/scmarket/kv.webp"
+        },
+        {
+          "sid": "1",
+          "bg": "#fff",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/scmarket/con1.webp",
+          "overview": "SC제일은행의 전달하려는 메시지를 키컬러를 사용하여 이미지화 시켜 쉽게 알아볼 수 있게 작업하고, <br />정해진 팔레트 색상만 사용하여 심플하면서도 복잡해 보이지 않게 작업하였습니다. "
+        },
+        {
+          "sid": "2",
+          "bgImg": "https://static.econtents.co.kr/_img/ct-planet/references/2023/scmarket/bg2.webp",
+          "img": "https://static.econtents.co.kr/_img/ct-planet/references/2023/scmarket/con2.webp"
+        }
+      ]
+    },
+
+    {
+      "seq": "201",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/thumb_dev_v2.webp",
+      "kv": "https://static.econtents.co.kr/_img/ct-planet/references/2023/homeschool/kv.webp",
+      "client": "kt",
+      "title": "홈스쿨 x 홈런",
+      "date": "2021 ~ 2023",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "load": "https://reference2.ct-planet.co.kr/homeschool/"
+    },
+    {
+      "seq": "202",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/summit2023/thumb_dev.webp",
+      "kv": "https://static.econtents.co.kr/_img/kt-cloud/bg.jpg?v=20230329",
+      "client": "kt cloud",
+      "title": "kt cloud Sumit 2023",
+      "date": "2023",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "load": "https://reference.ct-planet.co.kr/kt-cloud/"
+    },
+    {
+      "seq": "203",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/kidscamping/thumb_dev.webp",
+      "kv": "",
+      "client": "kt",
+      "title": "키즈랜드캠핑",
+      "date": "2021 ~ 진행중",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "link": "https://kidscamping.co.kr/"
+    },
+    {
+      "seq": "204",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/airobot/web/con4.webp",
+      "kv": "",
+      "client": "kt",
+      "title": "kt AI로봇",
+      "date": "2023 ~ 진행중",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "link": "https://ktrobot.co.kr"
+    },
+    {
+      "seq": "205",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/aistartup100/thumb_dev.webp",
+      "kv": "",
+      "client": "한국경제신문, kt",
+      "title": "AI Startup 100",
+      "date": "2021 ~ 진행중",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "link": "https://www.aistartuptop100.co.kr/"
+    },
+    {
+      "seq": "206",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/creatorfactory/thumb_dev.webp",
+      "kv": "",
+      "client": "kt",
+      "title": "크리에이터팩토리센터",
+      "date": "2021 ~ 진행중",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "link": "https://www.creatorfactory.co.kr"
+    },
+    {
+      "seq": "207",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/secuday/thumb_dev.webp",
+      "kv": "",
+      "client": "KISA한국인터넷진흥원",
+      "title": "제12회 정보보호의 날",
+      "date": "2023.07",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "link": "https://secuday.kr/"
+    },
+    {
+      "seq": "208",
+      "team": "dev",
+      "thumb": "https://static.econtents.co.kr/_img/dsflkorea/kv.jpg",
+      "kv": "",
+      "client": "Ford",
+      "title": "2023 DSFL",
+      "date": "2023",
+      "keyword": "php, MySql, html5, css3, javascript",
+      "type": "웹접근성, 반응형 웹",
+      "link": "https://dsflkorea.kr"
+    },
+
+    {
+      "seq": "301",
+      "team": "video",
+      "youtube": "a5tRO2wVnX0",
+      "thumb": "https://i.ytimg.com/vi_webp/a5tRO2wVnX0/maxresdefault.webp",
+      "client": "KT",
+      "title": "2023 키즈랜드캠핑<br />그라운드 캠핑",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "302",
+      "team": "video",
+      "youtube": "qQVQaVvmHtg",
+      "thumb": "https://i.ytimg.com/vi_webp/qQVQaVvmHtg/maxresdefault.webp",
+      "client": "Ford",
+      "title": "Ford Ranger<br />Adventure Day",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "303",
+      "team": "video",
+      "youtube": "a1jZbKG3pYA",
+      "thumb": "https://static.econtents.co.kr/_img/ct-planet/references/2023/CL500/thumb.webp",
+      "client": "HONDA",
+      "title": "2023 HONDA <br />CL500 Media Lunching",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "304",
+      "team": "video",
+      "youtube": "cRWtmZoZTaE",
+      "thumb": "https://i.ytimg.com/vi_webp/cRWtmZoZTaE/maxresdefault.webp",
+      "client": "르노",
+      "title": "르노 익피리언스<br />팝업 인 서울",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "305",
+      "team": "video",
+      "youtube": "87ikqCx9_uI",
+      "thumb": "https://i.ytimg.com/vi_webp/87ikqCx9_uI/maxresdefault.webp",
+      "client": "HYUNDAI",
+      "title": "현대 휠핑리<br />캐스퍼 마을",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "306",
+      "team": "video",
+      "youtube": "gpGOATu8PQ4",
+      "thumb": "https://i.ytimg.com/vi_webp/gpGOATu8PQ4/maxresdefault.webp",
+      "client": "KT",
+      "title": "KT 키즈랜드캠핑<br />in 어은돌 송림",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "307",
+      "team": "video",
+      "youtube": "0AbAiBVxTBU",
+      "thumb": "https://i.ytimg.com/vi_webp/0AbAiBVxTBU/maxresdefault.webp",
+      "client": "KT cloud",
+      "title": "SUMMIT 2023",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "308",
+      "team": "video",
+      "youtube": "phO_K8DBHkQ",
+      "thumb": "https://i.ytimg.com/vi_webp/phO_K8DBHkQ/maxresdefault.webp",
+      "client": "MINI",
+      "title": "2023 서울 모빌리티쇼<br />MINI 전시관",
+      "type": "Making film/Sketch"
+    },
+    {
+      "seq": "309",
+      "team": "video",
+      "youtube": "fAIcLPVp_90",
+      "thumb": "https://i.ytimg.com/vi_webp/fAIcLPVp_90/maxresdefault.webp",
+      "client": "KT",
+      "title": "KT 키즈랜드캠핑<br />in 병지방 캠핑장",
+      "type": "Making film/Sketch"
+    }
+  ]
+}
