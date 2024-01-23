@@ -44,7 +44,7 @@ class CtplanetService extends MysqlService
                 "is_active = 'Y' "
             ];
 
-            if(isset($team)){
+            if($team != ''){
                 $where[] = "team = '".$team."'";
             }
             
@@ -58,8 +58,13 @@ class CtplanetService extends MysqlService
     public function referenceCount($team): mixed
     {
         $where = [
-            "team = '".$team."'"
+            "is_active = 'Y' "
         ];
+
+        if($team != ''){
+            $where[] = "team = '".$team."'";
+        }
+
         return $this->getDataCount($this->table, $where);
     }
 
