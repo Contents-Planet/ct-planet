@@ -1,5 +1,5 @@
 <?php
-error_reporting(1);
+error_reporting(0);
 require_once $_SERVER["DOCUMENT_ROOT"] . '/app/service/Pwe.php';
 require_once $_SERVER["DOCUMENT_ROOT"] . '/app/service/CtplanetService.php';
 
