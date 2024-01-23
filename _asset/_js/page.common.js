@@ -471,7 +471,7 @@ var Reference = {
 						html += '					<p class="client">' + $data.client + '</p>';
 						html += '					<h3 class="title tit s3">' + $data.subject + '</h3>';
 						html += '					<p class="date">' + $data.year + '</p>';
-						html += '					<p class="keyword">' + (team === "btl" ? $data.etc4 : $data.etc3 ) + '</p>';
+						html += '					<p class="keyword">' + (team === "btl" ? $data.type : $data.etc3 ) + '</p>';
 						html += '				</header>';
 					}
 					html += '				<figure class="figure-item">';
