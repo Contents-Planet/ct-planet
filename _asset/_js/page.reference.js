@@ -26,7 +26,6 @@ var Page = {
       dataType:"json",
       data : formData,
       success: function(res) {
-        console.log(formData, res)
         if (typeof _callback === 'function') {
           if(res && res.result === 200) {
             var $data = res.datas;
@@ -86,7 +85,7 @@ var Page = {
       //html += '	<div class="grid-sizer"></div>';
       $.each($data, function(index, row){
         html += '	<div class="data-item type-'+ row.team +'" data-selector="dataItem">';
-        html += '		<a href="javascript:void(0)" class="link-item" data-action="'+ (row.team === "video" ? "video" : "reference") +'" data-seq="'+ row.seq +'" data-team="'+ row.team +'" data-id="'+ (row.youtube ? row.youtube : '') +'">';
+        html += '		<a href="javascript:void(0)" class="link-item" data-action="'+ (row.team === "video" ? "video" : "reference") +'" data-seq="'+ row.seq +'" data-team="'+ row.team +'" data-id="'+ (row.team === "video" ? row.etc2 : '') +'">';
         html += '			<div class="img-wrap">';
         //html += '				<div class="img-box" style="background-image:url('+ row.thumb +');"></div>';
         html += '				<img src="'+ row.thumb_img +'" class="thumb" alt="" />';
@@ -96,7 +95,7 @@ var Page = {
         html += '					<p class="client">'+ (row.client ? row.client : '') +'</p>';
         html += '					<strong class="title tit s4">'+ row.subject +'</strong>';
         html += '				</div>';
-        html += '				<small class="keyword">'+ (row.team == "btl" ? row.etc4 : row.etc3) +'</small>';
+        html += '				<small class="keyword">'+ row.type +'</small>';
         html += '			</div>';
         html += '		</a>';
         html += '	</div>';
