@@ -13,15 +13,16 @@ $(function(){
 var Page = {
 	GetReference : function(formData, _callback) {
 		formData = $.extend({
-			seq: "",
+      mode : "",
+      seq: "",
 			team: "",
 			keyword: "",
 			client : ""
 		}, formData || {});
 
 		$.ajax({
-			type: 'GET',
-			url: "/api/api.reference.json?v=20231108",
+			type: 'POST',
+			url: "/routes/api.php?v=20231108",
 			dataType:"json",
 			success: function(res) {
 				if (typeof _callback === 'function') {
@@ -137,9 +138,10 @@ var Page = {
 		//console.log($("[name=kind]:checked").length);
 
 		var formData = {
-			team : $("[name=team]:checked").val() ? $("[name=team]:checked").val() : '',
-			client : $("[name=client]:checked").val() ? $("[name=client]:checked").val() : '',
-			keyword : $("[name=keyword]:checked").val() ? $("[name=keyword]:checked").val() : ''
+      mode : 'getList',
+      team : $("[name=team]:checked").val() ? $("[name=team]:checked").val() : '',
+			/*client : $("[name=client]:checked").val() ? $("[name=client]:checked").val() : '',
+			keyword : $("[name=keyword]:checked").val() ? $("[name=keyword]:checked").val() : ''*/
 		}
 		Page.RenderReference(formData);
 		$("[name=all]").prop("checked", false);
