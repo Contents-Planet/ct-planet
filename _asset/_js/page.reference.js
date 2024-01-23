@@ -133,13 +133,13 @@ var Page = {
       keyword : $("[name=keyword]:checked").val() ? $("[name=keyword]:checked").val() : ''
     }
     Page.RenderReference(formData);
-    $("[name=all]").prop("checked", false);
+    //$("[name=all]").prop("checked", false);
   },
 
   AllChk : function() {
     if($("[name=all]").prop("checked")) {
       $("[data-action=chk]").prop("checked", false);
-      Page.RenderReference();
+      location.href = "reference";
     }
   },
 
