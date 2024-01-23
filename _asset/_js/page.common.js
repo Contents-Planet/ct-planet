@@ -439,6 +439,7 @@ var Reference = {
 			var $data = res,
 				team = $data.team;
 
+      console.log($data)
       if(team === "design" || team === "btl") {
 				var	html = '';
 				html += '	<div class="detail-container" data-selector="detailContainer">';
@@ -491,9 +492,9 @@ var Reference = {
 			}
 
 			if(team === "dev") {
-				if($data.load) {
+				if($data.etc2) {
 					var	html = '';
-					html += '	<div class="detail-container type-dev img-box" data-selector="detailContainer" style="background-image:url(' + $data.kv + ')">';
+					html += '	<div class="detail-container type-dev img-box" data-selector="detailContainer" style="background-image:url(' + $data.etc1 + ')">';
 					html += '		<section class="detail-sec">';
 					html += '			<div class="m-main">';
 					html += '				<header class="header-info">';
@@ -503,11 +504,11 @@ var Reference = {
 					html += '					</dl>';
 					html += '					<dl class="dl-item">';
 					html += '						<dt>wesite</dt>';
-					html += '						<dd>' + $data.title + '</dd>';
+					html += '						<dd>' + $data.subject + '</dd>';
 					html += '					</dl>';
 					html += '					<dl class="dl-item">';
 					html += '						<dt>language</dt>';
-					html += '						<dd>' + $data.keyword + '</dd>';
+					html += '						<dd>' + $data.etc3 + '</dd>';
 					html += '					</dl>';
 					html += '					<dl class="dl-item">';
 					html += '						<dt>feature</dt>';
@@ -515,15 +516,16 @@ var Reference = {
 					html += '					</dl>';
 					html += '				</header>';
 					html += '				<div class="content-container" data-selector="load-container">';
-					html += '					<div class="frame-wrap" data-action="zindex"><iframe src="' + $data.load + '"></iframe></div>';
-					html += '					<div class="frame-wrap mobile _active" data-action="zindex"><iframe src="' + $data.load + '"></iframe></div>';
+					html += '					<div class="frame-wrap" data-action="zindex"><iframe src="' + $data.etc2 + '"></iframe></div>';
+					html += '					<div class="frame-wrap mobile _active" data-action="zindex"><iframe src="' + $data.etc2 + '"></iframe></div>';
 					html += '				</div>';
 					html += '			</div>';
 					html += '		</section>';
 					html += '		<a href="javascript:void(0)" class="btn-close" data-action="detailClose"><span class="a11y">닫기</span></a>';
 					html += '	</div>';
-				} else {
-					window.open($data.link, "_blank");
+				}
+        else {
+					window.open($data.etc4, "_blank");
 					return;
 				}
 			}
@@ -531,7 +533,6 @@ var Reference = {
 			if(team === "video") {
 				return;
 			}
-
 
 			ND.FN.noScroll('on');
 			$("[data-selector=detailContainer]").remove();
