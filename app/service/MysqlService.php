@@ -105,6 +105,7 @@ class MysqlService
                 $results["datas"]["etc3"] = $row[9];
                 $results["datas"]["etc4"] = $row[11];
                 $results["datas"]["type"] = $row[12];
+                $results["datas"]["subject_color"] = $row[13];
             }
 
             $rowQuery = 'SELECT seq,bg_img,img,bg_color,overview FROM portfolio_row WHERE portfolio_seq = '. $results["datas"]["seq"];
@@ -162,6 +163,7 @@ class MysqlService
               $results["datas"][$cnt]["etc3"] = $row[9];
               $results["datas"][$cnt]["etc4"] = $row[11];
               $results["datas"][$cnt]["type"] = $row[12];
+              $results["datas"][$cnt]["subject_color"] = $row[13];
               $cnt++;
           }
             return $results;

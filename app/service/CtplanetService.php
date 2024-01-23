@@ -23,6 +23,7 @@ class CtplanetService extends MysqlService
                 "column" => "seq",
                 "sort" => "desc"
             ];
+            
             $column = [
                "seq",
                "subject",
@@ -36,12 +37,17 @@ class CtplanetService extends MysqlService
                "etc3",
                "etc4",
                "type",
-
+               "subject_color"
             ];
+
             $where = [
-                "team = '".$team."'",
                 "is_active = 'Y' "
             ];
+
+            if(isset($team)){
+                $where[] = "team = '".$team."'";
+            }
+            
             return $this->getMultiSelect($this->table, $where, $column, $orderBy);
         }catch(Exception $e){
             var_dump($e->getMessage());
@@ -73,7 +79,7 @@ class CtplanetService extends MysqlService
             "etc3",
             "etc4",
             "type",
-
+            "subject_color"
         ];
 
         return $this->getSingleSelect($this->table, $where, $column);
