@@ -408,20 +408,16 @@ var GNB = {
 
 var Reference = {
 	GetDate : function(fromData, _callback) {
-		$.ajax({
-			type: 'GET',
-			url: "/api/api.reference.json?v=20231108",
+    $.ajax({
+      type: 'POST',
+      url: "/routes/api.php?v=20240123",
 			dataType:"json",
 			data:fromData,
 			success: function(res) {
 				if (typeof _callback === 'function') {
-					if(res && res.result === "ok") {
-						$.each(res.data, function (index, row) {
-							if (row.seq == fromData.seq) {
-								var $data = row;
-								_callback.call(null, $data);
-							}
-						})
+					if(res && res.result === 200) {
+            var $data = res.datas;
+            _callback.call(null, $data);
 					}
 				}
 			}
@@ -435,11 +431,15 @@ var Reference = {
 	},
 
 	Detail : function(seq){
-		var fromData = {seq : seq};
-
+		var fromData = {
+      seq : seq,
+      mode : 'getDetail'
+    };
 		Reference.GetDate(fromData, function(res){
 			var $data = res,
 				team = $data.team;
+
+      console.log($data)
 
 			if(team === "design" || team === "btl") {
 				var	html = '';
@@ -464,14 +464,14 @@ var Reference = {
 						html += '			</div>';
 						html += '		</section>';
 					}
-					html += '		<section class="detail-sec sec-' + row2.sid + '" style="' + (row2.bgImg ? 'background-image:url(' + row2.bgImg + ')' : '') + ' ' + (row2.bg ? 'background-color:' + row2.bg : '') + '">';
+					html += '		<section class="detail-sec sec-' + (index2 === 0 ? 'kv' : index2) + '" style="' + (row2.bg_img ? 'background-image:url(' + row2.bg_img + ')' : '') + ' ' + (row2.bg_color ? 'background-color:' + row2.bg_color : '') + '">';
 					html += '			<div class="m-main">';
-					if (row2.sid === "kv") {
+					if (index2 === 0) {
 						html += '				<header class="header-info" style="'+ ($data.kvColor ? 'color:'+ $data.kvColor : '') +'">';
 						html += '					<p class="client">' + $data.client + '</p>';
-						html += '					<h3 class="title tit s3">' + $data.title + '</h3>';
-						html += '					<p class="date">' + $data.date + '</p>';
-						html += '					<p class="keyword">' + $data.keyword + '</p>';
+						html += '					<h3 class="title tit s3">' + $data.subject + '</h3>';
+						html += '					<p class="date">' + $data.year + '</p>';
+						html += '					<p class="keyword">' + (team === "btl" ? $data.etc4 : $data.etc3 ) + '</p>';
 						html += '				</header>';
 					}
 					html += '				<figure class="figure-item">';
@@ -483,9 +483,9 @@ var Reference = {
 					html += '			</div>';
 					html += '		</section>';
 				})
-				if($data.footLogo) {
-					html += '		<section class="detail-sec sec-footer" style="background-color:' + $data.footBg + '">';
-					html += '			<img src="' + $data.footLogo + '" alt="' + $data.client + '" '+ ($data.LogoHeight ? 'style="height:'+ $data.LogoHeight +'px;"' : '') +'/>';
+				if($data.etc1) {
+					html += '		<section class="detail-sec sec-footer" style="background-color:' + $data.etc2 + '">';
+					html += '			<img src="' + $data.etc1 + '" alt="' + $data.client + '" />';
 					html += '		</section>';
 				}
 				html += '		<a href="javascript:void(0)" class="btn-close" data-action="detailClose"><span class="a11y">닫기</span></a>';
