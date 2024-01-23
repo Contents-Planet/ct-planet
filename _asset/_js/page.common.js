@@ -439,9 +439,7 @@ var Reference = {
 			var $data = res,
 				team = $data.team;
 
-      console.log($data)
-
-			if(team === "design" || team === "btl") {
+      if(team === "design" || team === "btl") {
 				var	html = '';
 				html += '	<div class="detail-container" data-selector="detailContainer">';
 				/*html += '		<section class="detail-sec sec-kv" style="background-image:url(' + $data.kv + ')">';

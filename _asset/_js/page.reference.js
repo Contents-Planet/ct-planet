@@ -29,8 +29,6 @@ var Page = {
         console.log(formData, res)
         if (typeof _callback === 'function') {
           if(res && res.result === 200) {
-            //console.log("seq : "+ formData.seq, " / team : "+ formData.team, " / keyword : "+ formData.keyword, " / client : "+ formData.client,)
-
             var $data = res.datas;
             /*if( !formData.seq && !formData.team && !formData.keyword && !formData.client) {
               var $data = res.data;
@@ -45,9 +43,6 @@ var Page = {
             _callback.call(null, $data);
           }
         }
-      },
-      error: function (res) {
-        alert("일시적인 오류가 발생하였습니다\n잠시 후 다시 시도해주시기 바랍니다.");
       }
     });
   },
