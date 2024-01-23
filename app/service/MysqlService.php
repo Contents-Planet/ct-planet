@@ -103,9 +103,9 @@ class MysqlService
                 $results["datas"]["etc1"] = $row[7] ?? null;
                 $results["datas"]["etc2"] = $row[8] ?? null;
                 $results["datas"]["etc3"] = $row[9] ?? null;
-                $results["datas"]["etc4"] = $row[11] ?? null;
-                $results["datas"]["type"] = $row[12] ?? null;
-                $results["datas"]["subject_color"] = $row[13] ?? null;
+                $results["datas"]["etc4"] = $row[10] ?? null;
+                $results["datas"]["type"] = $row[11] ?? null;
+                $results["datas"]["subject_color"] = $row[12] ?? null;
             }
 
             $rowQuery = 'SELECT seq,bg_img,img,bg_color,overview FROM portfolio_row WHERE portfolio_seq = '. $results["datas"]["seq"];
@@ -161,9 +161,9 @@ class MysqlService
               $results["datas"][$cnt]["etc1"] = $row[7] ?? null;
               $results["datas"][$cnt]["etc2"] = $row[8] ?? null;
               $results["datas"][$cnt]["etc3"] = $row[9] ?? null;
-              $results["datas"][$cnt]["etc4"] = $row[11] ?? null;
-              $results["datas"][$cnt]["type"] = $row[12] ?? null;
-              $results["datas"][$cnt]["subject_color"] = $row[13] ?? null;
+              $results["datas"][$cnt]["etc4"] = $row[10] ?? null;
+              $results["datas"][$cnt]["type"] = $row[11] ?? null;
+              $results["datas"][$cnt]["subject_color"] = $row[12] ?? null;
               $cnt++;
           }
             return $results;

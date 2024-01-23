@@ -36,9 +36,8 @@ class CtplanetService extends MysqlService
                "etc2",
                "etc3",
                "etc4",
-               "subject_color",
                "type",
-             
+               "subject_color",
             ];
 
             $where = [
@@ -79,9 +78,8 @@ class CtplanetService extends MysqlService
             "etc2",
             "etc3",
             "etc4",
-            "subject_color",
             "type",
-            
+            "subject_color",
         ];
 
         return $this->getSingleSelect($this->table, $where, $column);
