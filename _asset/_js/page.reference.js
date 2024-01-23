@@ -26,6 +26,7 @@ var Page = {
       dataType:"json",
       data : formData,
       success: function(res) {
+        console.log(formData, res)
         if (typeof _callback === 'function') {
           if(res && res.result === 200) {
             //console.log("seq : "+ formData.seq, " / team : "+ formData.team, " / keyword : "+ formData.keyword, " / client : "+ formData.client,)

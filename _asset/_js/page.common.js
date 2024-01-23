@@ -454,7 +454,7 @@ var Reference = {
 				html += '				</header>';
 				html += '		</section>';*/
 				$.each($data.section, function (index2, row2) {
-					if (row2.overview) {
+          if (row2.overview) {
 						html += '		<section class="detail-sec sec-overview" style="' + (row2.overviewBg ? 'background-color:' + row2.overviewBg : '') + '">';
 						html += '			<div class="m-main">';
 						html += '				<dl class="dl-flex">';
@@ -467,7 +467,7 @@ var Reference = {
 					html += '		<section class="detail-sec sec-' + (index2 === 0 ? 'kv' : index2) + '" style="' + (row2.bg_img ? 'background-image:url(' + row2.bg_img + ')' : '') + ' ' + (row2.bg_color ? 'background-color:' + row2.bg_color : '') + '">';
 					html += '			<div class="m-main">';
 					if (index2 === 0) {
-						html += '				<header class="header-info" style="'+ ($data.kvColor ? 'color:'+ $data.kvColor : '') +'">';
+						html += '				<header class="header-info" style="color:'+ ($data.subject_color ? $data.subject_color : '#fff') +'">';
 						html += '					<p class="client">' + $data.client + '</p>';
 						html += '					<h3 class="title tit s3">' + $data.subject + '</h3>';
 						html += '					<p class="date">' + $data.year + '</p>';
