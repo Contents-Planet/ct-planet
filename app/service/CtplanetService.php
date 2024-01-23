@@ -37,7 +37,7 @@ class CtplanetService extends MysqlService
                "etc3",
                "etc4",
                "type",
-               "subject_color"
+               "subject_color",
             ];
 
             $where = [
@@ -49,6 +49,7 @@ class CtplanetService extends MysqlService
             }
             
             return $this->getMultiSelect($this->table, $where, $column, $orderBy);
+            
         }catch(Exception $e){
             var_dump($e->getMessage());
         }
@@ -66,7 +67,6 @@ class CtplanetService extends MysqlService
     {
         $where = ["seq = " . $seq];
         $column = [
-            
             "seq",
             "subject",
             "content",
@@ -79,7 +79,7 @@ class CtplanetService extends MysqlService
             "etc3",
             "etc4",
             "type",
-            "subject_color"
+            "subject_color",
         ];
 
         return $this->getSingleSelect($this->table, $where, $column);

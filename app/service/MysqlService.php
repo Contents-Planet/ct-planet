@@ -93,19 +93,19 @@ class MysqlService
             $results["result"] = 200;
             
             while ($row = $result->fetch_row()) {
-                $results["datas"]["seq"] = $row[0];
-                $results["datas"]["subject"] = $row[1];
-                $results["datas"]["content"] = $row[2];
-                $results["datas"]["client"] = $row[3];
-                $results["datas"]["year"] = $row[4];
-                $results["datas"]["thumb_img"] = $row[5];
-                $results["datas"]["team"] = $row[6];
-                $results["datas"]["etc1"] = $row[7];
-                $results["datas"]["etc2"] = $row[8];
-                $results["datas"]["etc3"] = $row[9];
-                $results["datas"]["etc4"] = $row[11];
-                $results["datas"]["type"] = $row[12];
-                $results["datas"]["subject_color"] = $row[13];
+                $results["datas"]["seq"] = $row[0] ?? null;
+                $results["datas"]["subject"] = $row[1] ?? null;
+                $results["datas"]["content"] = $row[2] ?? null;
+                $results["datas"]["client"] = $row[3] ?? null;
+                $results["datas"]["year"] = $row[4] ?? null;
+                $results["datas"]["thumb_img"] = $row[5] ?? null;
+                $results["datas"]["team"] = $row[6] ?? null;
+                $results["datas"]["etc1"] = $row[7] ?? null;
+                $results["datas"]["etc2"] = $row[8] ?? null;
+                $results["datas"]["etc3"] = $row[9] ?? null;
+                $results["datas"]["etc4"] = $row[11] ?? null;
+                $results["datas"]["type"] = $row[12] ?? null;
+                $results["datas"]["subject_color"] = $row[13] ?? null;
             }
 
             $rowQuery = 'SELECT seq,bg_img,img,bg_color,overview FROM portfolio_row WHERE portfolio_seq = '. $results["datas"]["seq"];
@@ -113,11 +113,11 @@ class MysqlService
             $rowResult = $mysqli->query($rowQuery);
 
             while ($row2 = $rowResult->fetch_row()) {
-                $results["datas"]["section"][$cnt]["seq"] = $row2[0];
-                $results["datas"]["section"][$cnt]["bg_img"] = $row2[1];
-                $results["datas"]["section"][$cnt]["img"] = $row2[2];
-                $results["datas"]["section"][$cnt]["bg_color"] = $row2[3];
-                $results["datas"]["section"][$cnt]["overview"] = $row2[4];
+                $results["datas"]["section"][$cnt]["seq"] = $row2[0] ?? null ;
+                $results["datas"]["section"][$cnt]["bg_img"] = $row2[1] ?? null ;
+                $results["datas"]["section"][$cnt]["img"] = $row2[2] ?? null ;
+                $results["datas"]["section"][$cnt]["bg_color"] = $row2[3] ?? null ;
+                $results["datas"]["section"][$cnt]["overview"] = $row2[4] ?? null ;
                 $cnt++;
             }
 
@@ -151,19 +151,19 @@ class MysqlService
             $results["totalCount"] = $totalCount[0];
 
             while ($row = $result->fetch_row()) {
-              $results["datas"][$cnt]["seq"] = $row[0];
-              $results["datas"][$cnt]["subject"] = $row[1];
-              $results["datas"][$cnt]["content"] = $row[2];
-              $results["datas"][$cnt]["client"] = $row[3];
-              $results["datas"][$cnt]["year"] = $row[4];
-              $results["datas"][$cnt]["thumb_img"] = $row[5];
-              $results["datas"][$cnt]["team"] = $row[6];
-              $results["datas"][$cnt]["etc1"] = $row[7];
-              $results["datas"][$cnt]["etc2"] = $row[8];
-              $results["datas"][$cnt]["etc3"] = $row[9];
-              $results["datas"][$cnt]["etc4"] = $row[11];
-              $results["datas"][$cnt]["type"] = $row[12];
-              $results["datas"][$cnt]["subject_color"] = $row[13];
+              $results["datas"][$cnt]["seq"] = $row[0] ?? null;
+              $results["datas"][$cnt]["subject"] = $row[1] ?? null;
+              $results["datas"][$cnt]["content"] = $row[2] ?? null;
+              $results["datas"][$cnt]["client"] = $row[3] ?? null;
+              $results["datas"][$cnt]["year"] = $row[4] ?? null;
+              $results["datas"][$cnt]["thumb_img"] = $row[5] ?? null;
+              $results["datas"][$cnt]["team"] = $row[6] ?? null;
+              $results["datas"][$cnt]["etc1"] = $row[7] ?? null;
+              $results["datas"][$cnt]["etc2"] = $row[8] ?? null;
+              $results["datas"][$cnt]["etc3"] = $row[9] ?? null;
+              $results["datas"][$cnt]["etc4"] = $row[11] ?? null;
+              $results["datas"][$cnt]["type"] = $row[12] ?? null;
+              $results["datas"][$cnt]["subject_color"] = $row[13] ?? null;
               $cnt++;
           }
             return $results;
