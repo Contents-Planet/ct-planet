@@ -375,4 +375,21 @@ function setMasking($type, $obj) {
 	return $result;
 }
 
+function WebHook($type, $msg) {
+  $_header = array();
+  $_header[] = 'Content-Type: application/json;charset=UTF-8';
+  $_ch = curl_init();
+  $url = 'https://hooks.slack.com/services/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';
+  $data = '{ "text": "'. $msg .'" }';
+
+  curl_setopt($_ch, CURLOPT_URL, $url);
+  curl_setopt($_ch, CURLOPT_RETURNTRANSFER, TRUE);
+  curl_setopt($_ch, CURLOPT_POST, TRUE);
+  curl_setopt($_ch, CURLOPT_POSTFIELDS, $data);
+  curl_setopt($_ch, CURLOPT_POST, true);
+  curl_setopt($_ch, CURLOPT_HTTPHEADER, $_header);
+
+  $res = curl_exec($_ch);
+  curl_close($_ch);
+}
 ?>

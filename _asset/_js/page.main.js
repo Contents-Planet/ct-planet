@@ -112,7 +112,7 @@ var Page = {
 				url: ajaxUrl,
 				data: formData,
 				success: function(res2) {
-					if(res2.result === "duplicate") {
+          if(res2.result === "duplicate") {
 						alert("이미 문의가 완료되었습니다.");
 						location.reload();
 						return;

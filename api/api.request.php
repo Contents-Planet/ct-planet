@@ -50,7 +50,9 @@ switch ($mode) {
 		$result = $_SQL->execute($sql);
 
 		if ($result) {
-			$results["result"] = "success";
+      $msg = '[관리자] 문의가 등록되었습니다. \n https://admin.ct-planet.co.kr/inquiry/';
+      WebHook('', $msg);
+      $results["result"] = "success";
 		}
 		else {
 			$results["result"] = "ERROR_DB";
